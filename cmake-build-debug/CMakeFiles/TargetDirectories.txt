@@ -1,0 +1,3 @@
+C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/cmake-build-debug/CMakeFiles/C_POGRAMMING_2_0.dir
+C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
