@@ -66,7 +66,8 @@
 			},
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		}
 	],
@@ -103,7 +104,8 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1
 			]
 		}
 	],
@@ -113,6 +115,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "multiplication table.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "swap number.c",
 			"sourceGroupIndex" : 0
 		}
 	],

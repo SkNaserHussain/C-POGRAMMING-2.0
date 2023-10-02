@@ -6,4 +6,6 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(C_POGRAMMING_2_0
-        "multiplication table.c")
+        "swap number.c"
+       //"multiplication table.c"
+       )
