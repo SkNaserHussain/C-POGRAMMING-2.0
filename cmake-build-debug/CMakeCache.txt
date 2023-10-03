@@ -128,7 +128,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=C_POGRAMMING_2_0
+CMAKE_PROJECT_NAME:STATIC=C_PROGRAMMING_2_0
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Program Files/JetBrains/CLion 2023.2.2/bin/mingw/bin/ranlib.exe
@@ -218,6 +218,15 @@ C_POGRAMMING_2_0_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 C_POGRAMMING_2_0_SOURCE_DIR:STATIC=C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0
+
+//Value Computed by CMake
+C_PROGRAMMING_2_0_BINARY_DIR:STATIC=C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/cmake-build-debug
+
+//Value Computed by CMake
+C_PROGRAMMING_2_0_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+C_PROGRAMMING_2_0_SOURCE_DIR:STATIC=C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0
 
 
 ########################

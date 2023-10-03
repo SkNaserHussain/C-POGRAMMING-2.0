@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "C_POGRAMMING_2_0",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -39,8 +41,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "C_POGRAMMING_2_0::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-C_POGRAMMING_2_0-Debug-4ae0aa0718d44aa0aed8.json",
+					"jsonFile" : "target-C_POGRAMMING_2_0-Debug-a5c85031266febd5242b.json",
 					"name" : "C_POGRAMMING_2_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C_PROGRAMMING_2_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C_PROGRAMMING_2_0-Debug-d186f297ed33f4f3761c.json",
+					"name" : "C_PROGRAMMING_2_0",
 					"projectIndex" : 0
 				}
 			]

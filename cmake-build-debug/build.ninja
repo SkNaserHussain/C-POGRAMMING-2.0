@@ -41,6 +41,40 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/cmake-build-debug/
 # =============================================================================
+# Object build statements for EXECUTABLE target C_PROGRAMMING_2_0
+
+
+#############################################
+# Order-only phony target for C_PROGRAMMING_2_0
+
+build cmake_object_order_depends_target_C_PROGRAMMING_2_0: phony || CMakeFiles/C_PROGRAMMING_2_0.dir
+
+build CMakeFiles/C_PROGRAMMING_2_0.dir/swap_number.c.obj: C_COMPILER__C_PROGRAMMING_2_0_unscanned_Debug C$:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/swap$ number.c || cmake_object_order_depends_target_C_PROGRAMMING_2_0
+  DEP_FILE = CMakeFiles\C_PROGRAMMING_2_0.dir\swap_number.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/.
+  OBJECT_DIR = CMakeFiles\C_PROGRAMMING_2_0.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_PROGRAMMING_2_0.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target C_PROGRAMMING_2_0
+
+
+#############################################
+# Link the executable C_PROGRAMMING_2_0.exe
+
+build C_PROGRAMMING_2_0.exe: C_EXECUTABLE_LINKER__C_PROGRAMMING_2_0_Debug CMakeFiles/C_PROGRAMMING_2_0.dir/swap_number.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\C_PROGRAMMING_2_0.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = C_PROGRAMMING_2_0.exe
+  TARGET_IMPLIB = libC_PROGRAMMING_2_0.dll.a
+  TARGET_PDB = C_PROGRAMMING_2_0.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target C_POGRAMMING_2_0
 
 
@@ -56,8 +90,8 @@ build CMakeFiles/C_POGRAMMING_2_0.dir/multiplication_table.c.obj: C_COMPILER__C_
   OBJECT_DIR = CMakeFiles\C_POGRAMMING_2_0.dir
   OBJECT_FILE_DIR = CMakeFiles\C_POGRAMMING_2_0.dir
 
-build CMakeFiles/C_POGRAMMING_2_0.dir/swap_number.c.obj: C_COMPILER__C_POGRAMMING_2_0_unscanned_Debug C$:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/swap$ number.c || cmake_object_order_depends_target_C_POGRAMMING_2_0
-  DEP_FILE = CMakeFiles\C_POGRAMMING_2_0.dir\swap_number.c.obj.d
+build CMakeFiles/C_POGRAMMING_2_0.dir/Dist_bw_2_pnts.c.obj: C_COMPILER__C_POGRAMMING_2_0_unscanned_Debug C$:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/Dist$ bw$ 2$ pnts.c || cmake_object_order_depends_target_C_POGRAMMING_2_0
+  DEP_FILE = CMakeFiles\C_POGRAMMING_2_0.dir\Dist_bw_2_pnts.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/.
   OBJECT_DIR = CMakeFiles\C_POGRAMMING_2_0.dir
@@ -71,7 +105,7 @@ build CMakeFiles/C_POGRAMMING_2_0.dir/swap_number.c.obj: C_COMPILER__C_POGRAMMIN
 #############################################
 # Link the executable C_POGRAMMING_2_0.exe
 
-build C_POGRAMMING_2_0.exe: C_EXECUTABLE_LINKER__C_POGRAMMING_2_0_Debug CMakeFiles/C_POGRAMMING_2_0.dir/multiplication_table.c.obj CMakeFiles/C_POGRAMMING_2_0.dir/swap_number.c.obj
+build C_POGRAMMING_2_0.exe: C_EXECUTABLE_LINKER__C_POGRAMMING_2_0_Debug CMakeFiles/C_POGRAMMING_2_0.dir/multiplication_table.c.obj CMakeFiles/C_POGRAMMING_2_0.dir/Dist_bw_2_pnts.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_POGRAMMING_2_0.dir
@@ -109,6 +143,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build C_POGRAMMING_2_0: phony C_POGRAMMING_2_0.exe
 
+build C_PROGRAMMING_2_0: phony C_PROGRAMMING_2_0.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -117,7 +153,7 @@ build C_POGRAMMING_2_0: phony C_POGRAMMING_2_0.exe
 #############################################
 # Folder: C:/Users/sknas/OneDrive/Documents/GitHub/C-POGRAMMING-2.0/cmake-build-debug
 
-build all: phony C_POGRAMMING_2_0.exe
+build all: phony C_PROGRAMMING_2_0.exe C_POGRAMMING_2_0.exe
 
 # =============================================================================
 # Built-in targets
