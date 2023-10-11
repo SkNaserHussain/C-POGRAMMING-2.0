@@ -18,3 +18,7 @@ int main()
     scanf("%d %d",&a,&b);
     swap(a,b);
 }
+/***
+* Enter the value of A and B: 30 20
+ * A=20 B=30
+*/
