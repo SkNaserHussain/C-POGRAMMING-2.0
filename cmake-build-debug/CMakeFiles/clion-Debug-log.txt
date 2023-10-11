@@ -1,18 +1,26 @@
-"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\sknas\OneDrive\Desktop\New folder\C-POGRAMMING-2.0" -B "C:\Users\sknas\OneDrive\Desktop\New folder\C-POGRAMMING-2.0\cmake-build-debug"
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\sknas\OneDrive\Desktop\New folder\C PROGRAMMING 2.0\cmake-build-debug\CMakeFiles" -B "C:\Users\sknas\OneDrive\Desktop\New folder\C PROGRAMMING 2.0\cmake-build-debug\CMakeFiles\cmake-build-debug"
+CMake Error at CMakeLists.txt:8 (add_executable):
+  add_executable cannot create target "C_PROGRAMMING_2_0" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
+  folder/C PROGRAMMING 2.0/cmake-build-debug/CMakeFiles".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:9 (add_executable):
+  add_executable cannot create target "C_PROGRAMMING_2_0" because another
+  target with the same name already exists.  The existing target is an
+  executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
+  folder/C PROGRAMMING 2.0/cmake-build-debug/CMakeFiles".  See documentation
+  for policy CMP0002 for more details.
+
+
 CMake Error at CMakeLists.txt:10 (add_executable):
   add_executable cannot create target "C_PROGRAMMING_2_0" because another
   target with the same name already exists.  The existing target is an
   executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
-  folder/C-POGRAMMING-2.0".  See documentation for policy CMP0002 for more
-  details.
-
-
-CMake Error at CMakeLists.txt:12 (add_executable):
-  add_executable cannot create target "C_PROGRAMMING_2_0" because another
-  target with the same name already exists.  The existing target is an
-  executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
-  folder/C-POGRAMMING-2.0".  See documentation for policy CMP0002 for more
-  details.
+  folder/C PROGRAMMING 2.0/cmake-build-debug/CMakeFiles".  See documentation
+  for policy CMP0002 for more details.
 
 
 -- Configuring incomplete, errors occurred!
