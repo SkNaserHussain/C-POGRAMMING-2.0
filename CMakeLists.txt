@@ -9,4 +9,5 @@ add_executable(C_PROGRAMMING_2_0 "multiplication table.c")
 add_executable(C_PROGRAMMING_2_0 "Dist bw 2 pnts.c")
 add_executable(C_PROGRAMMING_2_0 "swap no using function.c"
         factorial.c
-        "find leap year using functions.c")
+        "find leap year using functions.c"
+        "sum of n number using function.c")
