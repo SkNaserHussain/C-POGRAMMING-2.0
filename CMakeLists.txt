@@ -13,4 +13,5 @@ add_executable(C_PROGRAMMING_2_0
         "area of triangle using heron's formula.c"
         "St. line.c"
         "rightangle triangle.c"
-        "student info.c")
+        "student info.c"
+        "Simple & Compound interest.c")
