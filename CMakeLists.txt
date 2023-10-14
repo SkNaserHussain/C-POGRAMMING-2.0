@@ -8,4 +8,5 @@ add_executable(C_PROGRAMMING_2_0
 "function.c"
         "fibonacci series.c"
         "fibonacci series.c"
-        "pattern without if or continue.c")
+        "pattern without if or continue.c"
+        "storage converter.c")
