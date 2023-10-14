@@ -11,4 +11,5 @@ add_executable(C_PROGRAMMING_2_0
         "pattern without if or continue.c"
         "storage converter.c"
         "area of triangle using heron's formula.c"
-        "St. line.c")
+        "St. line.c"
+        "rightangle triangle.c")
