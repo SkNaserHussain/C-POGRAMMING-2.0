@@ -15,4 +15,5 @@ add_executable(C_PROGRAMMING_2_0
         "rightangle triangle.c"
         "student info.c"
         "Simple & Compound interest.c"
-        "positive or negative.c")
+        "positive or negative.c"
+        "currency converter.c")
