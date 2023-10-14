@@ -16,4 +16,5 @@ add_executable(C_PROGRAMMING_2_0
         "student info.c"
         "Simple & Compound interest.c"
         "positive or negative.c"
-        "currency converter.c")
+        "currency converter.c"
+        "greatest bw 2 numbers.c")
