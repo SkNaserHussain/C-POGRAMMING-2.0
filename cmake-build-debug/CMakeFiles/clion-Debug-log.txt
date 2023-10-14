@@ -1,26 +1,13 @@
 "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\sknas\OneDrive\Desktop\New folder\C PROGRAMMING 2.0\cmake-build-debug\CMakeFiles" -B "C:\Users\sknas\OneDrive\Desktop\New folder\C PROGRAMMING 2.0\cmake-build-debug\CMakeFiles\cmake-build-debug"
-CMake Error at CMakeLists.txt:8 (add_executable):
-  add_executable cannot create target "C_PROGRAMMING_2_0" because another
-  target with the same name already exists.  The existing target is an
-  executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
-  folder/C PROGRAMMING 2.0/cmake-build-debug/CMakeFiles".  See documentation
-  for policy CMP0002 for more details.
+-- Configuring done (0.2s)
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    function.c
 
 
-CMake Error at CMakeLists.txt:9 (add_executable):
-  add_executable cannot create target "C_PROGRAMMING_2_0" because another
-  target with the same name already exists.  The existing target is an
-  executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
-  folder/C PROGRAMMING 2.0/cmake-build-debug/CMakeFiles".  See documentation
-  for policy CMP0002 for more details.
+CMake Error at CMakeLists.txt:7 (add_executable):
+  No SOURCES given to target: C_PROGRAMMING_2_0
 
 
-CMake Error at CMakeLists.txt:10 (add_executable):
-  add_executable cannot create target "C_PROGRAMMING_2_0" because another
-  target with the same name already exists.  The existing target is an
-  executable created in source directory "C:/Users/sknas/OneDrive/Desktop/New
-  folder/C PROGRAMMING 2.0/cmake-build-debug/CMakeFiles".  See documentation
-  for policy CMP0002 for more details.
-
-
--- Configuring incomplete, errors occurred!
+CMake Generate step failed.  Build files cannot be regenerated correctly.
