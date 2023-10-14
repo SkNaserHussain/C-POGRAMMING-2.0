@@ -14,4 +14,5 @@ add_executable(C_PROGRAMMING_2_0
         "St. line.c"
         "rightangle triangle.c"
         "student info.c"
-        "Simple & Compound interest.c")
+        "Simple & Compound interest.c"
+        "positive or negative.c")
