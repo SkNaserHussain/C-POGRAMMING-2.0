@@ -9,4 +9,5 @@ add_executable(C_PROGRAMMING_2_0
         "fibonacci series.c"
         "fibonacci series.c"
         "pattern without if or continue.c"
-        "storage converter.c")
+        "storage converter.c"
+        "area of triangle using heron's formula.c")
