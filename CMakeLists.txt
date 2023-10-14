@@ -12,4 +12,5 @@ add_executable(C_PROGRAMMING_2_0
         "storage converter.c"
         "area of triangle using heron's formula.c"
         "St. line.c"
-        "rightangle triangle.c")
+        "rightangle triangle.c"
+        "student info.c")
