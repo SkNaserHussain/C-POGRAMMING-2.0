@@ -19,4 +19,5 @@ add_executable(C_PROGRAMMING_2_0
         "currency converter.c"
         "greatest bw 2 numbers.c"
         remarks.c
-        "algebric identities.c")
+        "algebric identities.c"
+        "Regular hexagon.c")
