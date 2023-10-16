@@ -25,4 +25,5 @@ add_executable(C_PROGRAMMING_2_0
         "Right or left shift.c"
         size.c
         error.c
-        "error p-2.c")
+        "error p-2.c"
+        "vowel & consonent.c")
