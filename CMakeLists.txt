@@ -24,4 +24,5 @@ add_executable(C_PROGRAMMING_2_0
         Grade.c
         "Right or left shift.c"
         size.c
-        error.c)
+        error.c
+        "error p-2.c")
