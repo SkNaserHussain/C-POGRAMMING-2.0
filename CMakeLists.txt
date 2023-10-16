@@ -23,4 +23,5 @@ add_executable(C_PROGRAMMING_2_0
         "Regular hexagon.c"
         Grade.c
         "Right or left shift.c"
-        size.c)
+        size.c
+        error.c)
