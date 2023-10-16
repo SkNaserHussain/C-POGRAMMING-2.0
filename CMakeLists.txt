@@ -26,4 +26,5 @@ add_executable(C_PROGRAMMING_2_0
         size.c
         error.c
         "error p-2.c"
-        "vowel & consonent.c")
+        "vowel & consonent.c"
+        "uc & lc.c")
