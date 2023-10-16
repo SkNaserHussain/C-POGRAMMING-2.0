@@ -22,4 +22,5 @@ add_executable(C_PROGRAMMING_2_0
         "algebric identities.c"
         "Regular hexagon.c"
         Grade.c
-        "Right or left shift.c")
+        "Right or left shift.c"
+        size.c)
