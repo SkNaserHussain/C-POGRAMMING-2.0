@@ -31,4 +31,5 @@ add_executable(C_PROGRAMMING_2_0
         "area of square and rectangle.c"
         BP.c
         "greatest no using && operator.c"
-        "smallest using && operator.c")
+        "smallest using && operator.c"
+        "sum of first n natural numbers.c")
