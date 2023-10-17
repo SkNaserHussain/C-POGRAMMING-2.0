@@ -28,4 +28,5 @@ add_executable(C_PROGRAMMING_2_0
         "error p-2.c"
         "vowel & consonent.c"
         "uc & lc.c"
-        "area of square and rectangle.c")
+        "area of square and rectangle.c"
+        BP.c)
