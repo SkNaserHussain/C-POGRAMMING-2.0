@@ -33,4 +33,5 @@ add_executable(C_PROGRAMMING_2_0
         "greatest no using && operator.c"
         "smallest using && operator.c"
         "sum of first n natural numbers.c"
-        Bill.c)
+        Bill.c
+        "vowel & consonent using switch case.c")
