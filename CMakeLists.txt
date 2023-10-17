@@ -32,4 +32,5 @@ add_executable(C_PROGRAMMING_2_0
         BP.c
         "greatest no using && operator.c"
         "smallest using && operator.c"
-        "sum of first n natural numbers.c")
+        "sum of first n natural numbers.c"
+        Bill.c)
