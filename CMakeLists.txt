@@ -29,4 +29,5 @@ add_executable(C_PROGRAMMING_2_0
         "vowel & consonent.c"
         "uc & lc.c"
         "area of square and rectangle.c"
-        BP.c)
+        BP.c
+        "greatest no using && operator.c")
