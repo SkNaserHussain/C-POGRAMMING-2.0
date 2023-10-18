@@ -34,4 +34,5 @@ add_executable(C_PROGRAMMING_2_0
         "smallest using && operator.c"
         "sum of first n natural numbers.c"
         Bill.c
-        "vowel & consonent using switch case.c")
+        "vowel & consonent using switch case.c"
+        week.c)
