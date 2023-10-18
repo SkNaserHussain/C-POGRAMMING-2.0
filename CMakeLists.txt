@@ -35,4 +35,5 @@ add_executable(C_PROGRAMMING_2_0
         "sum of first n natural numbers.c"
         Bill.c
         "vowel & consonent using switch case.c"
-        week.c)
+        week.c
+        "data type.c")
