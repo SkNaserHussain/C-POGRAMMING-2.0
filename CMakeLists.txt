@@ -38,4 +38,5 @@ add_executable(C_PROGRAMMING_2_0
         week.c
         "data type.c"
         "prime or composite.c"
-        n!.c)
+        n!.c
+        "palindrome pyramid.c")
