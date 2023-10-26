@@ -37,4 +37,5 @@ add_executable(C_PROGRAMMING_2_0
         "vowel & consonent using switch case.c"
         week.c
         "data type.c"
-        "prime or composite.c")
+        "prime or composite.c"
+        n!.c)
