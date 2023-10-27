@@ -39,4 +39,5 @@ add_executable(C_PROGRAMMING_2_0
         "data type.c"
         "prime or composite.c"
         n!.c
-        "palindrome pyramid.c")
+        "palindrome pyramid.c"
+        "alphabet pattern.c")
