@@ -42,4 +42,5 @@ add_executable(C_PROGRAMMING_2_0
         "palindrome pyramid.c"
         "alphabet pattern.c"
         "pattern sp.c"
-        "pattern sq..c")
+        "pattern sq..c"
+        "Hello world n trimes.c")
