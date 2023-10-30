@@ -43,4 +43,5 @@ add_executable(C_PROGRAMMING_2_0
         "alphabet pattern.c"
         "pattern sp.c"
         "pattern sq..c"
-        "Hello world n trimes.c")
+        "Hello world n trimes.c"
+        "diamond shape.c")
