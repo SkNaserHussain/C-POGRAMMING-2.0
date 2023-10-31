@@ -45,4 +45,5 @@ add_executable(C_PROGRAMMING_2_0
         "pattern sq..c"
         "Hello world n trimes.c"
         "diamond shape.c"
-        "palindrome number.c")
+        "palindrome number.c"
+        "counting the digit of number.c")
