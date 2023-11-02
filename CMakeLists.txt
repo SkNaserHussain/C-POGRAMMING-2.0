@@ -46,4 +46,5 @@ add_executable(C_PROGRAMMING_2_0
         "Hello world n trimes.c"
         "diamond shape.c"
         "palindrome number.c"
-        "counting the digit of number.c")
+        "counting the digit of number.c"
+        "Array(capture elements from user & display).c")
