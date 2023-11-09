@@ -49,4 +49,5 @@ add_executable(C_PROGRAMMING_2_0
         "counting the digit of number.c"
         "Array(capture elements from user & display).c"
         "Beep sound.c"
-        "decimal to binary.c")
+        "decimal to binary.c"
+        "amicable or not.c")
