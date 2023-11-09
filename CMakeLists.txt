@@ -48,4 +48,5 @@ add_executable(C_PROGRAMMING_2_0
         "palindrome number.c"
         "counting the digit of number.c"
         "Array(capture elements from user & display).c"
-        "Beep sound.c")
+        "Beep sound.c"
+        "decimal to binary.c")
