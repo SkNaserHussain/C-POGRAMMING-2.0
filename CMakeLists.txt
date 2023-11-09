@@ -50,4 +50,5 @@ add_executable(C_PROGRAMMING_2_0
         "Array(capture elements from user & display).c"
         "Beep sound.c"
         "decimal to binary.c"
-        "amicable or not.c")
+        "amicable or not.c"
+        "HCF of two numbers.c")
