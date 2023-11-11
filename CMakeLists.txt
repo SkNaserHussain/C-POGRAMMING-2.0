@@ -53,4 +53,5 @@ add_executable(C_PROGRAMMING_2_0
         "amicable or not.c"
         "HCF of two numbers.c"
         "Print all the arrays.c"
-        "Print all the arrays.c")
+        "Print all the arrays.c"
+        "Print individual numbers using array.c")
