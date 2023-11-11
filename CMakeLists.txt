@@ -51,4 +51,6 @@ add_executable(C_PROGRAMMING_2_0
         "Beep sound.c"
         "decimal to binary.c"
         "amicable or not.c"
-        "HCF of two numbers.c")
+        "HCF of two numbers.c"
+        "Print all the arrays.c"
+        "Print all the arrays.c")
