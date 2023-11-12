@@ -55,4 +55,5 @@ add_executable(C_PROGRAMMING_2_0
         "Print all the arrays.c"
         "Print all the arrays.c"
         "Print individual numbers using array.c"
-        "2D Array.c")
+        "2D Array.c"
+        "Discriminant value of quadratic eqn..c")
