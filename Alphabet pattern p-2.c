@@ -1,5 +1,5 @@
 //
-// Created by sknas on 21-11-2023.
+// Created by sk Naser Hussain on 21-11-2023.
 //
 /***Write a C program that takes an input 'n' (number of rows) and prints a pattern as follows:
  *  A
