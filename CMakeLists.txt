@@ -59,4 +59,5 @@ add_executable(C_PROGRAMMING_2_0
         "Discriminant value of quadratic eqn..c"
         "Logarithm value.c"
         "ASCII value.c"
-        "increment & decrement.c")
+        "increment & decrement.c"
+        "Alphabet pattern p-2.c")
