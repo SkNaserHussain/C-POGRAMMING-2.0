@@ -57,4 +57,5 @@ add_executable(C_PROGRAMMING_2_0
         "Print individual numbers using array.c"
         "2D Array.c"
         "Discriminant value of quadratic eqn..c"
-        "Logarithm value.c")
+        "Logarithm value.c"
+        "ASCII value.c")
