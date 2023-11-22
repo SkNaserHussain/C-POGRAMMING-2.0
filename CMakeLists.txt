@@ -62,4 +62,5 @@ add_executable(C_PROGRAMMING_2_0
         "increment & decrement.c"
         "Alphabet pattern p-2.c"
         "Area of circle.c"
-        "Armstrong number.c")
+        "Armstrong number.c"
+        "Even numbers within a specific range.c")
