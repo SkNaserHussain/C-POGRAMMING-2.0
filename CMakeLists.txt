@@ -61,4 +61,5 @@ add_executable(C_PROGRAMMING_2_0
         "ASCII value.c"
         "increment & decrement.c"
         "Alphabet pattern p-2.c"
-        "Area of circle.c")
+        "Area of circle.c"
+        "Armstrong number.c")
