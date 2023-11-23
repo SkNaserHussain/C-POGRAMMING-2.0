@@ -65,4 +65,5 @@ add_executable(C_PROGRAMMING_2_0
         "Armstrong number.c"
         "Even numbers within a specific range.c"
         "File Handling.c"
-        "Find greatest number using function.c")
+        "Find greatest number using function.c"
+        "Gross salary.c")
