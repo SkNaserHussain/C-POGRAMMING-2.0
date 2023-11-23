@@ -64,4 +64,5 @@ add_executable(C_PROGRAMMING_2_0
         "Area of circle.c"
         "Armstrong number.c"
         "Even numbers within a specific range.c"
-        "File Handling.c")
+        "File Handling.c"
+        "Find greatest number using function.c")
