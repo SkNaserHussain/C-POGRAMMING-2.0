@@ -67,4 +67,5 @@ add_executable(C_PROGRAMMING_2_0
         "File Handling.c"
         "Find greatest number using function.c"
         "Gross salary.c"
-        "Length of a string.c")
+        "Length of a string.c"
+        "String functions.c")
