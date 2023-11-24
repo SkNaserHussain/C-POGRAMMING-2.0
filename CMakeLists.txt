@@ -68,4 +68,5 @@ add_executable(C_PROGRAMMING_2_0
         "Find greatest number using function.c"
         "Gross salary.c"
         "Length of a string.c"
-        "String functions.c")
+        "String functions.c"
+        Queue.c)
