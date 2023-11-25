@@ -73,4 +73,5 @@ add_executable(C_PROGRAMMING_2_0
         "Hour glass by alphabet.c"
         "Reverse string.c"
         "Friendly number.c"
-        "Happy number.c")
+        "Happy number.c"
+        "Unique number .c")
