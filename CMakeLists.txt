@@ -70,4 +70,5 @@ add_executable(C_PROGRAMMING_2_0
         "Length of a string.c"
         "String functions.c"
         Queue.c
-        "Hour glass by alphabet.c")
+        "Hour glass by alphabet.c"
+        "Reverse string.c")
