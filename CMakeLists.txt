@@ -75,4 +75,5 @@ add_executable(C_PROGRAMMING_2_0
         "Friendly number.c"
         "Happy number.c"
         "Unique number .c"
-        "sum of n numbers using recursion.c")
+        "sum of n numbers using recursion.c"
+        "Area of circle using recursive function.c")
