@@ -78,4 +78,5 @@ add_executable(C_PROGRAMMING_2_0
         "sum of n numbers using recursion.c"
         "Area of circle using recursive function.c"
         "Tree recursion.c"
-        "sum of 2D array.c")
+        "sum of 2D array.c"
+        "Employee salary.c")
