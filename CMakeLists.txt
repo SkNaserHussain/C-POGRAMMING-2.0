@@ -74,4 +74,5 @@ add_executable(C_PROGRAMMING_2_0
         "Reverse string.c"
         "Friendly number.c"
         "Happy number.c"
-        "Unique number .c")
+        "Unique number .c"
+        "sum of n numbers using recursion.c")
