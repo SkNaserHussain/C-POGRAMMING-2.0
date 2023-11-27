@@ -83,4 +83,5 @@ add_executable(C_PROGRAMMING_2_0
         "Smart Bazar.c"
         "Multiply 2D array.c"
         "Implement all string function.c"
-        "Add 2 complex numbers.c")
+        "Add 2 complex numbers.c"
+        "Bubble sorting.c")
