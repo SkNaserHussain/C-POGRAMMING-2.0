@@ -71,5 +71,5 @@ Enter the element in row-2 and column-1 :12
 Result of matrix multiplication:
 25 28
 57 64
-89 100 
+89 100
 */
