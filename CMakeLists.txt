@@ -84,4 +84,5 @@ add_executable(C_PROGRAMMING_2_0
         "Multiply 2D array.c"
         "Implement all string function.c"
         "Add 2 complex numbers.c"
-        "Bubble sorting.c")
+        "Bubble sorting.c"
+        Union.c)
