@@ -80,4 +80,5 @@ add_executable(C_PROGRAMMING_2_0
         "Tree recursion.c"
         "sum of 2D array.c"
         "Employee salary.c"
-        "Smart Bazar.c")
+        "Smart Bazar.c"
+        "Multiply 2D array.c")
