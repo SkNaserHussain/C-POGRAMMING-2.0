@@ -87,4 +87,5 @@ add_executable(C_PROGRAMMING_2_0
         "Bubble sorting.c"
         Union.c
         "Union inside structure.c"
-        "Checking file exists or not.c")
+        "Checking file exists or not.c"
+        "Read data from a file.c")
