@@ -88,4 +88,5 @@ add_executable(C_PROGRAMMING_2_0
         Union.c
         "Union inside structure.c"
         "Checking file exists or not.c"
-        "Read data from a file.c")
+        "Read data from a file.c"
+        "modify data in a file.c")
