@@ -91,4 +91,5 @@ add_executable(C_PROGRAMMING_2_0
         "Read data from a file.c"
         "modify data in a file.c"
         "Append opperation.c"
-        Macro.c)
+        Macro.c
+        "Stack data structure.c")
