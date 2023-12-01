@@ -94,4 +94,5 @@ add_executable(C_PROGRAMMING_2_0
         Macro.c
         "Stack data structure.c"
         "check a string ha odd or even charcters w.o. using string function.c"
-        "Create file.c")
+        "Create file.c"
+        "Access element of an array using pointer.c")
