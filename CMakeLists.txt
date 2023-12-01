@@ -93,4 +93,5 @@ add_executable(C_PROGRAMMING_2_0
         "Append opperation.c"
         Macro.c
         "Stack data structure.c"
-        "check a string ha odd or even charcters w.o. using string function.c")
+        "check a string ha odd or even charcters w.o. using string function.c"
+        "Create file.c")
