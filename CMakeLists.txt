@@ -96,4 +96,5 @@ add_executable(C_PROGRAMMING_2_0
         "check a string ha odd or even charcters w.o. using string function.c"
         "Create file.c"
         "Access element of an array using pointer.c"
-        "length of array using sizeof function.c")
+        "length of array using sizeof function.c"
+        "Factors of a number.c")
