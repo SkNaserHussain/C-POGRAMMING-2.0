@@ -99,4 +99,5 @@ add_executable(C_PROGRAMMING_2_0
         "length of array using sizeof function.c"
         "Factors of a number.c"
         "Floyd's triangle.c"
-        "sum of 2 floating number.c")
+        "sum of 2 floating number.c"
+        "Print Hello world using pointer.c")
