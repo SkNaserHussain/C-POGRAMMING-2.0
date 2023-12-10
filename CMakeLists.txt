@@ -97,4 +97,5 @@ add_executable(C_PROGRAMMING_2_0
         "Create file.c"
         "Access element of an array using pointer.c"
         "length of array using sizeof function.c"
-        "Factors of a number.c")
+        "Factors of a number.c"
+        "Floyd's triangle.c")
