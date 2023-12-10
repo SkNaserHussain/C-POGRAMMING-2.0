@@ -100,4 +100,5 @@ add_executable(C_PROGRAMMING_2_0
         "Factors of a number.c"
         "Floyd's triangle.c"
         "sum of 2 floating number.c"
-        "Print Hello world using pointer.c")
+        "Print Hello world using pointer.c"
+        "Find largest using pointers.c")
