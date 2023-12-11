@@ -6,8 +6,6 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 add_executable(C_PROGRAMMING_2_0
 "function.c"
-        "fibonacci series.c"
-        "fibonacci series.c"
         "pattern without if or continue.c"
         "storage converter.c"
         "area of triangle using heron's formula.c"
@@ -102,4 +100,6 @@ add_executable(C_PROGRAMMING_2_0
         "sum of 2 floating number.c"
         "Print Hello world using pointer.c"
         "Find largest using pointers.c"
-        "Delete an element from array.c")
+        "Delete an element from array.c"
+        "../../../../../../../../fibonacci series.c"
+        "Fibonacci series.c")
