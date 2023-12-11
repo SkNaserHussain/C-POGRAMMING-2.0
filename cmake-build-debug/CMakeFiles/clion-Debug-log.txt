@@ -1,5 +1,5 @@
 "C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\sknas\OneDrive\Desktop\New folder\C PROGRAMMING 2.0\cmake-build-debug\CMakeFiles" -B "C:\Users\sknas\OneDrive\Desktop\New folder\C PROGRAMMING 2.0\cmake-build-debug\CMakeFiles\cmake-build-debug"
--- Configuring done (0.1s)
+-- Configuring done (0.3s)
 CMake Error at CMakeLists.txt:7 (add_executable):
   Cannot find source file:
 

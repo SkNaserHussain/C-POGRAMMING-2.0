@@ -102,4 +102,5 @@ add_executable(C_PROGRAMMING_2_0
         "Find largest using pointers.c"
         "Delete an element from array.c"
         "../../../../../../../../fibonacci series.c"
-        "Fibonacci series.c")
+        "Fibonacci series.c"
+        "Binary search.c")
