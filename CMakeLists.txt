@@ -105,4 +105,5 @@ add_executable(C_PROGRAMMING_2_0
         "Fibonacci series.c"
         "Binary search.c"
         "Check repetition of a number in an array.c"
-        "list all files from directory.c")
+        "list all files from directory.c"
+        "Read data from a file and display.c")
