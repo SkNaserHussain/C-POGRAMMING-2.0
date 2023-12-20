@@ -34,5 +34,5 @@ Enter element 3 >> 4
 Enter element 4 >> 5
 1 2 3 4 5
 Enter element to be searched >> 3
-The number 3 appears 1 number of times in the array 
+The number 3 appears 1 number of times in the array
 */
