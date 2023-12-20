@@ -103,4 +103,5 @@ add_executable(C_PROGRAMMING_2_0
         "Delete an element from array.c"
         "../../../../../../../../fibonacci series.c"
         "Fibonacci series.c"
-        "Binary search.c")
+        "Binary search.c"
+        "Check repetition of a number in an array.c")
