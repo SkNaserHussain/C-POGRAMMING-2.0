@@ -106,4 +106,5 @@ add_executable(C_PROGRAMMING_2_0
         "Binary search.c"
         "Check repetition of a number in an array.c"
         "list all files from directory.c"
-        "Read data from a file and display.c")
+        "Read data from a file and display.c"
+        "implement call by value.c")
