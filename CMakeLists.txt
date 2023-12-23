@@ -108,4 +108,5 @@ add_executable(C_PROGRAMMING_2_0
         "list all files from directory.c"
         "Read data from a file and display.c"
         "implement call by value.c"
-        "right-angled number triangle.c")
+        "right-angled number triangle.c"
+        "Tower of Hanoi.c")
