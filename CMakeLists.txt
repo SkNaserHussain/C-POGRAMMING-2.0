@@ -109,4 +109,5 @@ add_executable(C_PROGRAMMING_2_0
         "Read data from a file and display.c"
         "implement call by value.c"
         "right-angled number triangle.c"
-        "Tower of Hanoi.c")
+        "Tower of Hanoi.c"
+        "Print Hello world n times.c")
